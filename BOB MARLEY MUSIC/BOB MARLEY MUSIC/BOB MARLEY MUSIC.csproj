@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BOB_MARLEY_MUSIC</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Index.cshtml" Link="Index.cshtml" />
+    <Content Include="C:\Users\Marlesa\Documents\GitHub\C-Sharpe\site.css" Link="site.css" />
+    <Content Include="C:\Users\Marlesa\Documents\GitHub\C-Sharpe\site.js" Link="site.js" />
+  </ItemGroup>
+
+</Project>

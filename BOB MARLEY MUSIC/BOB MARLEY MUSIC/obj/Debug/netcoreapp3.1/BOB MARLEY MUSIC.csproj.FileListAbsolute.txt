@@ -1,0 +1,38 @@
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\BOB MARLEY MUSIC.exe
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\BOB MARLEY MUSIC.deps.json
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\BOB MARLEY MUSIC.runtimeconfig.json
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\BOB MARLEY MUSIC.runtimeconfig.dev.json
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\BOB MARLEY MUSIC.dll
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\BOB MARLEY MUSIC.pdb
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\BOB MARLEY MUSIC.Views.dll
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\bin\Debug\netcoreapp3.1\BOB MARLEY MUSIC.Views.pdb
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.AssemblyInfoInputs.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.AssemblyInfo.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.RazorAssemblyInfo.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.RazorAssemblyInfo.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\staticwebassets\BOB MARLEY MUSIC.StaticWebAssets.Manifest.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\staticwebassets\BOB MARLEY MUSIC.StaticWebAssets.xml
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\scopedcss\bundle\BOB MARLEY MUSIC.styles.css
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.TagHelpers.input.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.TagHelpers.output.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.RazorCoreGenerate.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.RazorTargetAssemblyInfo.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.RazorTargetAssemblyInfo.cs
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.Views.pdb
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.dll
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.pdb
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.genruntimeconfig.cache
+C:\Users\Marlesa\source\repos\BOB MARLEY MUSIC\BOB MARLEY MUSIC\obj\Debug\netcoreapp3.1\BOB MARLEY MUSIC.csproj.CopyComplete
