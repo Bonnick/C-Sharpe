@@ -23,7 +23,7 @@ namespace Daily_Report
             //This console command ask the page number of the course.
             Console.WriteLine("What page number?");
             string pagenumber = Console.ReadLine();
-            Console.WriteLine("I am on" + pagenumber + "!");
+            Console.WriteLine("Great" + pagenumber + "!");
             Console.Read();
             //This command help us to understand that the student needs help with the course
             bool Doyouneedhelpwithanything = true;
