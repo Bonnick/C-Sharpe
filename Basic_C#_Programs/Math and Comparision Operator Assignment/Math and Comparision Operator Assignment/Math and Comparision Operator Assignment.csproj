@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0949B1DB-44BD-46E9-ADC7-6ACAACCD178F}</ProjectGuid>
+    <ProjectGuid>{B293AA9A-5813-4B41-A40E-B0B831A5AF5A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Math_Operator</RootNamespace>
-    <AssemblyName>Math Operator</AssemblyName>
+    <RootNamespace>Math_and_Comparision_Operator_Assignment</RootNamespace>
+    <AssemblyName>Math and Comparision Operator Assignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

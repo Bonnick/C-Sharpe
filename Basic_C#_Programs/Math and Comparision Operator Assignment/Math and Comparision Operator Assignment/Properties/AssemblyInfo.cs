@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Math Operator")]
+[assembly: AssemblyTitle("Math and Comparision Operator Assignment")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("Math Operator")]
+[assembly: AssemblyProduct("Math and Comparision Operator Assignment")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0949b1db-44bd-46e9-adc7-6acaaccd178f")]
+[assembly: Guid("b293aa9a-5813-4b41-a40e-b0b831a5af5a")]
 
 // Version information for an assembly consists of the following four values:
 //

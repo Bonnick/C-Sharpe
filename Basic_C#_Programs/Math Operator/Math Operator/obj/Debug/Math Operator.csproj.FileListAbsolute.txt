@@ -1,7 +1,0 @@
-C:\Users\Marlesa\source\repos\Math Operator\Math Operator\bin\Debug\Math Operator.exe.config
-C:\Users\Marlesa\source\repos\Math Operator\Math Operator\bin\Debug\Math Operator.exe
-C:\Users\Marlesa\source\repos\Math Operator\Math Operator\bin\Debug\Math Operator.pdb
-C:\Users\Marlesa\source\repos\Math Operator\Math Operator\obj\Debug\Math Operator.csproj.AssemblyReference.cache
-C:\Users\Marlesa\source\repos\Math Operator\Math Operator\obj\Debug\Math Operator.csproj.CoreCompileInputs.cache
-C:\Users\Marlesa\source\repos\Math Operator\Math Operator\obj\Debug\Math Operator.exe
-C:\Users\Marlesa\source\repos\Math Operator\Math Operator\obj\Debug\Math Operator.pdb
