@@ -16,39 +16,33 @@ namespace Math_and_Comparision_Operator_Assignment
             Console.WriteLine("Person 1");
 
             Console.WriteLine("Hourly Rate");// The console produces the hourly rate of $15 per hour for person 1 
-            int total = 5+ 10;
-            Console.WriteLine(total.ToString());
-            Console.ReadLine();
+            int total = Convert.ToInt32(Console.ReadLine());
+           
+ 
 
             Console.WriteLine("Hours worked per week?"); // The console produces the amount of hours person week person 1 works which is 40.
-            int product = 5 * 8;
-            Console.WriteLine(product);
-            Console.ReadLine();
+            int product = Convert.ToInt32(Console.ReadLine());
+            
+          
 
 
             Console.WriteLine("Person 2");
 
             Console.WriteLine("Hourly Rate");// The console produces the hourly rate for person 2 which is $20 per hour.
-            int difference = 25 - 5;
-            Console.WriteLine( difference.ToString());
-            Console.ReadLine();
+            int difference = Convert.ToInt32(Console.ReadLine());
+            
 
             Console.WriteLine("Hours worked per week?");// This console produces the amount of hours person 2 work per week which is 40.
-            int quotient = 80 / 2;
-            Console.WriteLine(quotient);
-            Console.ReadLine();
+            int quotient = Convert.ToInt32(Console.ReadLine());
+            int Annualsalaryofperson1 = (total*product) * 52;
+            int Annualsalaryofperson2 = (difference*quotient) * 52;
 
-            Console.WriteLine("Annual salary of person 1:"); //This console produces a statement telling us how much is person one annual salary
-            Console.WriteLine("31200");
-
-            Console.WriteLine("Annual salary of person 2:"); // This console produces a statment telling us how much is person two annual salary 
-            Console.WriteLine("41600");
-            //This console produces the false statement because person 1 is not making more money than person 2. 
-            int Annualsalaryofperson1 = 31200;
-            int Annualsalaryofperson2 = 41600;
-
+            
+             
+            
+          
             bool Annualsalary = Annualsalaryofperson1 > Annualsalaryofperson2;
-            Console.WriteLine(Annualsalary);
+            Console.WriteLine("Is Person 1 Salary greater than Person 2 Salary " + Annualsalary);
             Console.ReadLine();
 
 
