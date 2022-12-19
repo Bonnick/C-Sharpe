@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Boolean Operators\Boolean Operators\bin\Debug\Boolean Operators.exe.config
+C:\Users\Marlesa\source\repos\Boolean Operators\Boolean Operators\bin\Debug\Boolean Operators.exe
+C:\Users\Marlesa\source\repos\Boolean Operators\Boolean Operators\bin\Debug\Boolean Operators.pdb
+C:\Users\Marlesa\source\repos\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.exe
+C:\Users\Marlesa\source\repos\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.pdb
