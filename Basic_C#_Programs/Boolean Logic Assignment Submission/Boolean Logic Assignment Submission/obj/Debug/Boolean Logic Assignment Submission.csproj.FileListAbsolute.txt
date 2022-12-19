@@ -5,3 +5,10 @@ C:\Users\Marlesa\source\repos\Boolean Logic Assignment Submission\Boolean Logic 
 C:\Users\Marlesa\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\Boolean Logic Assignment Submission.exe
 C:\Users\Marlesa\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\Boolean Logic Assignment Submission.pdb
 C:\Users\Marlesa\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\Boolean Logic Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\bin\Debug\Boolean Logic Assignment Submission.exe.config
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\bin\Debug\Boolean Logic Assignment Submission.exe
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\bin\Debug\Boolean Logic Assignment Submission.pdb
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\Boolean Logic Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\Boolean Logic Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\Boolean Logic Assignment Submission.exe
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\Boolean Logic Assignment Submission.pdb

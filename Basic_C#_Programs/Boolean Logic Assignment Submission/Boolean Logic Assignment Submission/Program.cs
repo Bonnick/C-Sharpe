@@ -17,24 +17,26 @@ namespace Boolean_Logic_Assignment_Submission
             int age = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Your age is: " + age);
             Console.ReadLine();
-            
+
             //This command is indicating that the user has no DUI.
             Console.WriteLine("Have you ever had a DUI?");
-            Console.WriteLine(false || false);
+            bool DUI = Convert.ToBoolean(Console.ReadLine());
             Console.ReadLine();
 
             // This command allow user put on speeding tickets.
             Console.WriteLine("How many speeding tickets do you have?");
             int tickets = Convert.ToInt32(Console.ReadLine());
-  
+
             // When you put in 1 speeding ticket the result is true. If you have 4 speeding ticket the results is false. 
-            bool speedticket = (tickets < 3);
-            Console.WriteLine(speedticket);
+            bool qualify = (tickets < 3 && DUI == false && age > 15);
+            Console.WriteLine("Are you qualify?");
+            Console.WriteLine(qualify);
             Console.ReadLine();
 
 
 
-            
+
+
         }
     }
 }
