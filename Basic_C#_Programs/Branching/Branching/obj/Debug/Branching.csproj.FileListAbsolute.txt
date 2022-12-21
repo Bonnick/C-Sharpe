@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\Marlesa\source\repos\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\Marlesa\source\repos\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\Marlesa\source\repos\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\Marlesa\source\repos\Branching\Branching\obj\Debug\Branching.pdb
