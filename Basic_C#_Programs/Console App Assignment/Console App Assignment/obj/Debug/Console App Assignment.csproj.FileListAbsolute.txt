@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.exe.config
+C:\Users\Marlesa\source\repos\Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.exe
+C:\Users\Marlesa\source\repos\Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.pdb
+C:\Users\Marlesa\source\repos\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.exe
+C:\Users\Marlesa\source\repos\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.pdb
