@@ -24,7 +24,10 @@ namespace Branching_Assignment
                 {
                     Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day");
                  }
-
+            else
+               {  
+                  
+           
 
                 //This command allows you to enter the width
                 Console.WriteLine("Please enter the package width");
@@ -40,23 +43,30 @@ namespace Branching_Assignment
             Console.ReadLine();
 
             //This command allows you to enter the length
-            Console.WriteLine("Please enter the package lenght");
+            Console.WriteLine("Please enter the package length");
             int length = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Your lenght is: " + length);
+            Console.WriteLine("Your length is: " + length);
 
-            if (length > 50)
+            if ((length + height + width) > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express");
             }
+            else
+            { 
+           
              // multiply all three dimensions(height, width & length and multiply by weight and then divide the outcome by 100.
             int x = height;
             int y = width;
             int w = length;
             int q = weight;
             Console.WriteLine("Your estimated total for shipping this package is:");
-            Console.WriteLine(x * y * w * q /100);
-            Console.ReadLine();
+            Console.WriteLine("$" + x * y * w * q /100);
+            }
+            }
 
+
+            Console.ReadLine();
+          
         }
     }
 }

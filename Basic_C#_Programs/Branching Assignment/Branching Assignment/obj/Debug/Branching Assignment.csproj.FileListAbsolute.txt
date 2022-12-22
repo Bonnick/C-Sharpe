@@ -5,3 +5,10 @@ C:\Users\Marlesa\source\repos\Branching Assignment\Branching Assignment\obj\Debu
 C:\Users\Marlesa\source\repos\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.csproj.CoreCompileInputs.cache
 C:\Users\Marlesa\source\repos\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.exe
 C:\Users\Marlesa\source\repos\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.pdb
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Branching Assignment\Branching Assignment\bin\Debug\Branching Assignment.exe.config
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Branching Assignment\Branching Assignment\bin\Debug\Branching Assignment.exe
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Branching Assignment\Branching Assignment\bin\Debug\Branching Assignment.pdb
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.csproj.AssemblyReference.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.exe
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.pdb
