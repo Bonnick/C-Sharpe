@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe.config
+C:\Users\Marlesa\source\repos\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe
+C:\Users\Marlesa\source\repos\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.pdb
+C:\Users\Marlesa\source\repos\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.exe
+C:\Users\Marlesa\source\repos\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.pdb
