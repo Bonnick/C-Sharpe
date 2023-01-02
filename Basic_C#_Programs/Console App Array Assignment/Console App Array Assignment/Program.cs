@@ -30,7 +30,7 @@ namespace Console_App_Array_Assignment
                 Console.WriteLine(numArray2[array]);
 
     
-             if (array > 6)
+            if (array > 6)
             {
                 Console.WriteLine("Index selected does not exit");
             }
@@ -51,11 +51,15 @@ namespace Console_App_Array_Assignment
             {
                 Console.WriteLine(intList[List]);
             }
+            else if ( List > 2)
+            {
+               Console.WriteLine(" Something went wrong");
             }
 
             Console.ReadLine();
 
 
+            }
         }
     }
 }
