@@ -1,0 +1,2 @@
+C:\Users\Marlesa\source\repos\Iteration Part 2\Iteration Part 2\obj\Debug\Iteration Part 2.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Iteration Part 2\Iteration Part 2\obj\Debug\Iteration Part 2.csproj.AssemblyReference.cache
