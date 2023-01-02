@@ -5,3 +5,10 @@ C:\Users\Marlesa\source\repos\Console App Array Assignment\Console App Array Ass
 C:\Users\Marlesa\source\repos\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.csproj.CoreCompileInputs.cache
 C:\Users\Marlesa\source\repos\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.exe
 C:\Users\Marlesa\source\repos\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.pdb
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.exe.config
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.exe
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.pdb
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.csproj.AssemblyReference.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.exe
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.pdb

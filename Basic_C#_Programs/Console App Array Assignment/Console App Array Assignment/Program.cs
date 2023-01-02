@@ -28,8 +28,15 @@ namespace Console_App_Array_Assignment
             if (array >=0 || array<=6)
             {
                 Console.WriteLine(numArray2[array]);
+
+    
+             if (array > 6)
+            {
+                Console.WriteLine("Index selected does not exit");
             }
-            Console.ReadLine();
+            else
+            { 
+
 
             //List of String
             //List<string> intList = new List<string>() { "Hello", "Jesse", "Romario" };
@@ -43,6 +50,7 @@ namespace Console_App_Array_Assignment
             if (List >=0 || List <=2)
             {
                 Console.WriteLine(intList[List]);
+            }
             }
 
             Console.ReadLine();
