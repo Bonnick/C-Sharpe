@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Exception Handling Part 1\Exception Handling Part 1\bin\Debug\Exception Handling Part 1.exe.config
+C:\Users\Marlesa\source\repos\Exception Handling Part 1\Exception Handling Part 1\bin\Debug\Exception Handling Part 1.exe
+C:\Users\Marlesa\source\repos\Exception Handling Part 1\Exception Handling Part 1\bin\Debug\Exception Handling Part 1.pdb
+C:\Users\Marlesa\source\repos\Exception Handling Part 1\Exception Handling Part 1\obj\Debug\Exception Handling Part 1.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Exception Handling Part 1\Exception Handling Part 1\obj\Debug\Exception Handling Part 1.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Exception Handling Part 1\Exception Handling Part 1\obj\Debug\Exception Handling Part 1.exe
+C:\Users\Marlesa\source\repos\Exception Handling Part 1\Exception Handling Part 1\obj\Debug\Exception Handling Part 1.pdb
