@@ -1,2 +1,7 @@
 C:\Users\Marlesa\source\repos\Console App String and Integers Assignments\Console App String and Integers Assignments\obj\Debug\Console App String and Integers Assignments.csproj.AssemblyReference.cache
 C:\Users\Marlesa\source\repos\Console App String and Integers Assignments\Console App String and Integers Assignments\obj\Debug\Console App String and Integers Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Console App String and Integers Assignments\Console App String and Integers Assignments\bin\Debug\Console App String and Integers Assignments.exe.config
+C:\Users\Marlesa\source\repos\Console App String and Integers Assignments\Console App String and Integers Assignments\bin\Debug\Console App String and Integers Assignments.exe
+C:\Users\Marlesa\source\repos\Console App String and Integers Assignments\Console App String and Integers Assignments\bin\Debug\Console App String and Integers Assignments.pdb
+C:\Users\Marlesa\source\repos\Console App String and Integers Assignments\Console App String and Integers Assignments\obj\Debug\Console App String and Integers Assignments.exe
+C:\Users\Marlesa\source\repos\Console App String and Integers Assignments\Console App String and Integers Assignments\obj\Debug\Console App String and Integers Assignments.pdb

@@ -16,8 +16,8 @@ namespace Console_App_String_and_Integers_Assignments
             {
 
                 int[] numArray = new int[5];
-                numArray[0] = 5;
-                numArray[1] = 2;
+                numArray[0] = 40;
+                numArray[1] = 20;
                 numArray[2] = 10;
                 numArray[3] = 200;
                 numArray[4] = 5000;
@@ -28,32 +28,14 @@ namespace Console_App_String_and_Integers_Assignments
 
                 for (int i = 0; i < numArray.Length; i++)
                 {
-                    var result = numArray[i] / numberOne;
-                }
-
-                for (int i = 0; i < numArray.Length; i++)
-                {
-                    Console.WriteLine(numArray[i]);
-                }
-                //Run the code, entering in non-zero numbers as the user. Look at the displayed results.
-                if (numberOne == 0)
-                {
-                    Console.WriteLine("No non-zero number in the list of intergers");
-                }
-                // Run the code again, entering in zero as the number to divide by. Note any error messages you get.
-                else if (numberOne <= 0)
-                {
-                    Console.WriteLine("Error enter a number");
-                }
-                //Run the code once again, entering in a string as the number to divide by. Note any error messages you get.
-                //if (!Int32.IsNumber(numArray)) 
-                if (!Convert.ToInt32(numberOne))
-                {
-                    Console.WriteLine(" Error Not an number");
-                    Console.ReadLine();
+                    Console.WriteLine(numArray[i] / numberOne);
                 }
             }
 
+
+            //Run the code, entering in non-zero numbers as the user. Look at the displayed results.
+
+            //Now put the loop in a try/catch block. Below and outside of the try/catch block, make the program print a message to the display to let you know the program has emerged from the try/catch block and continued on with program execution. In the catch block, display the error message to the screen. Then try various combinations of user input: valid numbers, zero and a string. Ensure the proper error messages display on the screen, and that the code after the try/catch block gets executed.
 
             catch (FormatException ex)
             {
