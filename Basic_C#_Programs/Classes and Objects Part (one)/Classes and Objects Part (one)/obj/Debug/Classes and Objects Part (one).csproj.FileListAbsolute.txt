@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\bin\Debug\Classes and Objects Part (one).exe.config
+C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\bin\Debug\Classes and Objects Part (one).exe
+C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\bin\Debug\Classes and Objects Part (one).pdb
+C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).exe
+C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).pdb
