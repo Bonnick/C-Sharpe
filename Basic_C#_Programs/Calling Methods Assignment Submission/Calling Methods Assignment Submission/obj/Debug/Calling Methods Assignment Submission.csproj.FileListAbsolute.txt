@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Calling Methods Assignment Submission\Calling Methods Assignment Submission\bin\Debug\Calling Methods Assignment Submission.exe.config
+C:\Users\Marlesa\source\repos\Calling Methods Assignment Submission\Calling Methods Assignment Submission\bin\Debug\Calling Methods Assignment Submission.exe
+C:\Users\Marlesa\source\repos\Calling Methods Assignment Submission\Calling Methods Assignment Submission\bin\Debug\Calling Methods Assignment Submission.pdb
+C:\Users\Marlesa\source\repos\Calling Methods Assignment Submission\Calling Methods Assignment Submission\obj\Debug\Calling Methods Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Calling Methods Assignment Submission\Calling Methods Assignment Submission\obj\Debug\Calling Methods Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Calling Methods Assignment Submission\Calling Methods Assignment Submission\obj\Debug\Calling Methods Assignment Submission.exe
+C:\Users\Marlesa\source\repos\Calling Methods Assignment Submission\Calling Methods Assignment Submission\obj\Debug\Calling Methods Assignment Submission.pdb

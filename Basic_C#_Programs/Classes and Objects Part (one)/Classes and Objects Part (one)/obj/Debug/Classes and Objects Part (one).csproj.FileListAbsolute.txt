@@ -5,3 +5,7 @@ C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects
 C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).csproj.CoreCompileInputs.cache
 C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).exe
 C:\Users\Marlesa\source\repos\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).pdb
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).csproj.AssemblyReference.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).exe
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Classes and Objects Part (one)\Classes and Objects Part (one)\obj\Debug\Classes and Objects Part (one).pdb

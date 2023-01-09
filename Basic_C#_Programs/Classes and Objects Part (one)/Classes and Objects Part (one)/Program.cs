@@ -13,7 +13,9 @@ namespace Classes_and_Objects_Part__one_
             Deck deck = new Deck();
             //deck.Cards = new List<Card>();
 
-
+          deck = Shuffle(deck);
+            
+           
 
             //Card cardOne = new Card();
             //cardOne.Face = "Queen";
@@ -30,6 +32,22 @@ namespace Classes_and_Objects_Part__one_
 
             //Console.WriteLine(deck.Cards[01].Face  + " of " + deck.Cards[0].Suit);
             Console.ReadLine();
+        }
+        //Add a Method
+        public static Deck Shuffle(Deck deck)
+        {
+            List<Card> TempList = new List<Card>();
+            Random rondom = new Random();
+
+            while (deck.Cards.Count > 0)
+            {
+                int random index = random.Next(0, deck.Cards.Count);
+                TempList.Add(deck.Cards[randomIndex]);
+                deck.Cards.RemoveAt(randomIndex);
+            }
+            deck.Cards = TempList;
+            return deck;
+
         }
     }
 }
