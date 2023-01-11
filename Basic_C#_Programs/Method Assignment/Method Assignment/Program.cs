@@ -14,15 +14,24 @@ namespace Method_Assignment
             Method result = new Method();
 
             //Ask the user to input two numbers, one at a time. Let them know they need not enter anything for the second number.
-            Console.WriteLine("Please input two number");
+            Console.WriteLine("Please input one number");
             int number = Convert.ToInt32(Console.ReadLine());
-            
-            //Call the method in the class, passing in the one or two numbers entered.
+            string number2 = Console.ReadLine(); 
 
-            Console.WriteLine("Your number is: " + result +
-                result);
-            Console.WriteLine(Method.results(number));
+            if (number2 == "")
+            {
+                Console.WriteLine(result.results(number));
+            }
+             
+            else
+            {
+                int num1 = Convert.ToInt32(number2);
+                Console.WriteLine(result.results(number, num1));
+
            
+                
+            }
+             
             
             
             Console.ReadLine();
