@@ -10,23 +10,24 @@ namespace Main_Method_Assignment_Submission
     {
 
        
-            public static int results(int myChild)
+            public int results(int myChild)
             {
                 return myChild  + 2; // Two is added to myNum
             }
-            public static decimal results2(decimal myChild)
+            public int results(decimal myChild)
             {
-                return myChild * 2.64m; // myNum is being multiplied by two
+            int num3 = Convert.ToInt32(myChild);
+            int num4 = 40 / num3;
+
+            return num4;  // myNum is being multiplied by 2.64
             }
-            public static string results3( string myChild)
+            public int results( string myChild)
             {
 
-            var num = 0;
-            for (var i = 0; i < myChild.Length; i++)
-            {
-              num = num * 10 + (myChild[i] - '0');
-            }
-            return myChild;
+            int num1 = Convert.ToInt32(myChild);
+            int num2 = 10 - num1;
+
+            return num2;
 
             
 
