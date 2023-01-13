@@ -8,19 +8,16 @@ namespace Method_Class_Assignment_Submissiomn
 {
     class Method
     {
-        public int results(int myNum, int myNum2 = 2)
+        public void results(int myNum, int myNum2)
         {
-            Console.WriteLine("The second integer is myNum2 = 2");
+            // The second integer will be displayed on the screen along with the mathemational operation of the first integer. 
+            Console.WriteLine("The second integer is myNum2 " + myNum2);
 
             int sum = 0;
-            sum = myNum + myNum2 + 2;
+            sum = myNum + 2;
+            
+            
 
-            return sum;
-
-            // The second integer will be displayed on the screen along with the mathemational operation of the first integer. 
-
-            //Console.WriteLine("mynum2 " + sum);
-           
 
         }
 

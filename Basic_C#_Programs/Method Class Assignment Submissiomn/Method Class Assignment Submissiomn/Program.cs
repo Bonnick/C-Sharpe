@@ -20,11 +20,14 @@ namespace Method_Class_Assignment_Submissiomn
 
 
 
-            //Object one = new Object();
-            //number2 = one.results(number);
+           
+        
 
             //Call the method in the class, specifying the parameters by name. 
-            Console.WriteLine(play.results(number));
+
+            play.results(number, number2);
+
+            play.results(myNum: 8, myNum2: 7);
 
             Console.ReadLine();
 
