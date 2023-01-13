@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Method Class Assignment Submissiomn\Method Class Assignment Submissiomn\obj\Debug\Method Class Assignment Submissiomn.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Method Class Assignment Submissiomn\Method Class Assignment Submissiomn\obj\Debug\Method Class Assignment Submissiomn.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Method Class Assignment Submissiomn\Method Class Assignment Submissiomn\bin\Debug\Method Class Assignment Submissiomn.exe.config
+C:\Users\Marlesa\source\repos\Method Class Assignment Submissiomn\Method Class Assignment Submissiomn\bin\Debug\Method Class Assignment Submissiomn.exe
+C:\Users\Marlesa\source\repos\Method Class Assignment Submissiomn\Method Class Assignment Submissiomn\bin\Debug\Method Class Assignment Submissiomn.pdb
+C:\Users\Marlesa\source\repos\Method Class Assignment Submissiomn\Method Class Assignment Submissiomn\obj\Debug\Method Class Assignment Submissiomn.exe
+C:\Users\Marlesa\source\repos\Method Class Assignment Submissiomn\Method Class Assignment Submissiomn\obj\Debug\Method Class Assignment Submissiomn.pdb
