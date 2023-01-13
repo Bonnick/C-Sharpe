@@ -16,12 +16,14 @@ namespace Method_Class_Assignment_Submissiomn
             int number = Convert.ToInt32(Console.ReadLine());
             //Call a method in the class passing in two numbers.
             Console.WriteLine("Passing in number two");
-            string number2 = (Console.ReadLine());
+            int number2 = Convert.ToInt32(Console.ReadLine());
+
+
+
+            //Object one = new Object();
+            //number2 = one.results(number);
 
             //Call the method in the class, specifying the parameters by name. 
-
-            Object one = new Object();
-            //number2 = one.results(number);
             Console.WriteLine(play.results(number));
 
             Console.ReadLine();
