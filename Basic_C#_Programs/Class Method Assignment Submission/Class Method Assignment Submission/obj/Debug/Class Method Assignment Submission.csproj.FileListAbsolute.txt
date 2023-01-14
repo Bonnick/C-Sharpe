@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Class Method Assignment Submission\Class Method Assignment Submission\bin\Debug\Class Method Assignment Submission.exe.config
+C:\Users\Marlesa\source\repos\Class Method Assignment Submission\Class Method Assignment Submission\bin\Debug\Class Method Assignment Submission.exe
+C:\Users\Marlesa\source\repos\Class Method Assignment Submission\Class Method Assignment Submission\bin\Debug\Class Method Assignment Submission.pdb
+C:\Users\Marlesa\source\repos\Class Method Assignment Submission\Class Method Assignment Submission\obj\Debug\Class Method Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Class Method Assignment Submission\Class Method Assignment Submission\obj\Debug\Class Method Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Class Method Assignment Submission\Class Method Assignment Submission\obj\Debug\Class Method Assignment Submission.exe
+C:\Users\Marlesa\source\repos\Class Method Assignment Submission\Class Method Assignment Submission\obj\Debug\Class Method Assignment Submission.pdb
