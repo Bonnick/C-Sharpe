@@ -18,7 +18,9 @@ namespace Methods_and_Objects_Assignment_Submission
             //Console.WriteLine(employee);
 
             //Call the superclass method SayName() on the Employee object.
-            Console.WriteLine(employee.SayName);
+            Console.WriteLine(employee.SayName());
+            Console.ReadLine();
+            
         }
     }
 }

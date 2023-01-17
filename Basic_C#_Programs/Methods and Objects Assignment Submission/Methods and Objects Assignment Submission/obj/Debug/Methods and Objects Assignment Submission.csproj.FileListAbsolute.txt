@@ -1,2 +1,4 @@
 C:\Users\Marlesa\source\repos\Methods and Objects Assignment Submission\Methods and Objects Assignment Submission\obj\Debug\Methods and Objects Assignment Submission.csproj.AssemblyReference.cache
 C:\Users\Marlesa\source\repos\Methods and Objects Assignment Submission\Methods and Objects Assignment Submission\obj\Debug\Methods and Objects Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Methods and Objects Assignment Submission\Methods and Objects Assignment Submission\obj\Debug\Methods and Objects Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\Marlesa\Documents\GitHub\C-Sharpe\Basic_C#_Programs\Methods and Objects Assignment Submission\Methods and Objects Assignment Submission\obj\Debug\Methods and Objects Assignment Submission.csproj.CoreCompileInputs.cache

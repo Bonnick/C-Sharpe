@@ -13,20 +13,19 @@ namespace Methods_and_Objects_Assignment_Submission
 
         public string LastName { get; set; }
 
-    }
-
-    public void SayName()
+        public void SayName()
     {
 
-        //Give this class a void method called SayName() that takes no parameters and simply writes the person's full name to the console in the format of: “Name: [full name]”.
+            //Give this class a void method called SayName() that takes no parameters and simply writes the person's full name to the console in the format of: “Name: [full name]”.
 
-        string fullName = "Romario Bonnick";
-        string[] Name = fullName.Split(' ');
-        string name = Name.First();
-        string lasName = Name.Last();
+        
+             Console.WriteLine("Name: " + FirstName + " " + LastName);
+      
 
-        Console.WriteLine(Name:[fullName]);
-       
+        }
+
 
     }
+
+    
 }

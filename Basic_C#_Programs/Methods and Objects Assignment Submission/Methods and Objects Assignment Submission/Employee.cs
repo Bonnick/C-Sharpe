@@ -12,5 +12,15 @@ namespace Methods_and_Objects_Assignment_Submission
         public int Id { get; set; }
         public string DisplayName { get; set; }
 
+
+        public void SayName()
+    {
+
+        
+             Console.WriteLine("Name: " + FirstName + " " + LastName);
+      
+
+        }
+
     }
 }
