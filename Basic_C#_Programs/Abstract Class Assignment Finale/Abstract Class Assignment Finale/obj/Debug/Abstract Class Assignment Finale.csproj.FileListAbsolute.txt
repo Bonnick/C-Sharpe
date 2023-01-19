@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Abstract Class Assignment Finale\Abstract Class Assignment Finale\bin\Debug\Abstract Class Assignment Finale.exe.config
+C:\Users\Marlesa\source\repos\Abstract Class Assignment Finale\Abstract Class Assignment Finale\bin\Debug\Abstract Class Assignment Finale.exe
+C:\Users\Marlesa\source\repos\Abstract Class Assignment Finale\Abstract Class Assignment Finale\bin\Debug\Abstract Class Assignment Finale.pdb
+C:\Users\Marlesa\source\repos\Abstract Class Assignment Finale\Abstract Class Assignment Finale\obj\Debug\Abstract Class Assignment Finale.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Abstract Class Assignment Finale\Abstract Class Assignment Finale\obj\Debug\Abstract Class Assignment Finale.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Abstract Class Assignment Finale\Abstract Class Assignment Finale\obj\Debug\Abstract Class Assignment Finale.exe
+C:\Users\Marlesa\source\repos\Abstract Class Assignment Finale\Abstract Class Assignment Finale\obj\Debug\Abstract Class Assignment Finale.pdb
