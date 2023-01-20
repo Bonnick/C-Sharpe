@@ -26,8 +26,13 @@ namespace Operators_Assignment_Submission
             else
                 return false;
         }
-        
-        
+
+        public static bool operator!= (Employee employee, Employee employee1)
+    {
+         if (employee.ID != employee1.ID)
+            return true;
+         else
+            return false;
        
 
     }
