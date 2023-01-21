@@ -10,36 +10,38 @@ namespace Parsing_Enums_Assignment_Submission
     {
         static void Main(string[] args)
         {
-           try
+
+            string[] DayOfWeek = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+            foreach (string Weeks in DayOfWeek)
             {
 
 
-                //int myNum = (int)DayOfWeek.Monday;
 
-                //Console.WriteLine(myNum);
+                try
+                {
 
-                Weeks days = new Weeks();
-                Console.WriteLine("Enter the current day of the week");
-                int myNum = (int)DayOfWeek.Monday;
-                int myNum = Convert.ToInt32(Console.ReadLine(DayOfWeek));
-                
+                    Console.WriteLine("Enter the Days of the Week");
+                    int Days = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("The current Day of the week" + Days);
+                }
+
+
+                catch (FormatException ex)
+                {
+                    Console.WriteLine("Please enter an actual day of the week");
+                }
+
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                finally
+                {
+                    Console.ReadLine();
+                }
 
             }
-
-            catch (FormatException ex)
-            {
-                Console.WriteLine("Please enter an actual day of the week");
-            }
-
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            finally
-            {
-                Console.ReadLine();
-            }
-
         }
     }
 }
+
