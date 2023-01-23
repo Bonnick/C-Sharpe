@@ -1,0 +1,7 @@
+C:\Users\Marlesa\source\repos\Lambda Expression Assignment Submission\Lambda Expression Assignment Submission\bin\Debug\Lambda Expression Assignment Submission.exe.config
+C:\Users\Marlesa\source\repos\Lambda Expression Assignment Submission\Lambda Expression Assignment Submission\bin\Debug\Lambda Expression Assignment Submission.exe
+C:\Users\Marlesa\source\repos\Lambda Expression Assignment Submission\Lambda Expression Assignment Submission\bin\Debug\Lambda Expression Assignment Submission.pdb
+C:\Users\Marlesa\source\repos\Lambda Expression Assignment Submission\Lambda Expression Assignment Submission\obj\Debug\Lambda Expression Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Lambda Expression Assignment Submission\Lambda Expression Assignment Submission\obj\Debug\Lambda Expression Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Lambda Expression Assignment Submission\Lambda Expression Assignment Submission\obj\Debug\Lambda Expression Assignment Submission.exe
+C:\Users\Marlesa\source\repos\Lambda Expression Assignment Submission\Lambda Expression Assignment Submission\obj\Debug\Lambda Expression Assignment Submission.pdb
