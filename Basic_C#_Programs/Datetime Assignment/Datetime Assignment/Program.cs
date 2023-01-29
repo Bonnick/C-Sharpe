@@ -33,18 +33,13 @@ namespace Datetime_Assignment
 
        // Ask the user for a number
 
-        Console.WriteLine("Year: ");
-        var year = Convert.ToInt32(Console.ReadLine());
-
-        Console.WriteLine("Month: ");
-        var month = Convert.ToInt32(Console.ReadLine());
-
-        Console.WriteLine("Day: ");
-        var day = Convert.ToInt32(Console.ReadLine());
-
+        Console.WriteLine("Please enter a number between 1 and 10 ");
+        var number = Convert.ToInt32(Console.ReadLine());
+       
+       
         // Print to the console the exact time it will be in X hours, X being the number the user entered in step 2.
 
-        Console.WriteLine("The current date and time is " +   year +  month +  day  +  0,  0,  0,  0 );
+        Console.WriteLine("The time it will be when X is added to DateTime " + now.AddHours(number));
         Console.ReadLine();
         
 
