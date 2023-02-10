@@ -1,0 +1,18 @@
+﻿
+  @using MVC_Application_Eleven___Part_Assignment.Models
+
+  @model List<Instructor>
+
+@{
+    ViewBag.Title = "Instructors";
+}
+
+<h2>Instructors</h2>
+
+@{ 
+    foreach(_Page_Views_Home_Instructors_cshtml instructor in Model)
+            {
+                <h4>@instructor.FirstName</h4>
+            }
+}
+

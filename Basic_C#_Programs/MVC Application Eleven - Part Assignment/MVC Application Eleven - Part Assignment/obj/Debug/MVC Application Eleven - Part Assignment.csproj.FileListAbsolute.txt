@@ -1,0 +1,2 @@
+C:\Users\Marlesa\source\repos\MVC Application Eleven - Part Assignment\MVC Application Eleven - Part Assignment\obj\Debug\MVC Application Eleven - Part Assignment.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\MVC Application Eleven - Part Assignment\MVC Application Eleven - Part Assignment\obj\Debug\MVC Application Eleven - Part Assignment.csproj.CoreCompileInputs.cache
