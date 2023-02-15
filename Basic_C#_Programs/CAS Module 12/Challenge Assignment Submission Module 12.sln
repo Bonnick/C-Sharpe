@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge Assignment Submission Module 12", "Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12.csproj", "{FAE0E37B-21D5-4FC0-AAC3-42101E0082F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE0E37B-21D5-4FC0-AAC3-42101E0082F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE0E37B-21D5-4FC0-AAC3-42101E0082F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE0E37B-21D5-4FC0-AAC3-42101E0082F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE0E37B-21D5-4FC0-AAC3-42101E0082F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DF698E7-0B60-4626-A763-6A88F5D02720}
+	EndGlobalSection
+EndGlobal

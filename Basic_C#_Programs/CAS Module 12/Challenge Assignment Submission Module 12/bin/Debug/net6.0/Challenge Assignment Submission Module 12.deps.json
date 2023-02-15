@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Challenge Assignment Submission Module 12/1.0.0": {
+        "runtime": {
+          "Challenge Assignment Submission Module 12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge Assignment Submission Module 12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

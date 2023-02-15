@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    @functions {
+        public DateTime dt { get; set; }
+
+        public DateTime OnGet()
+        {
+            dt = DateTime.Now;
+            
+            return dt;
+        }
+    }
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+     <h2> The Current Server Time is:</h2>
+
+     <p onload="OnGet();">@OnGet();</p>
+</div>

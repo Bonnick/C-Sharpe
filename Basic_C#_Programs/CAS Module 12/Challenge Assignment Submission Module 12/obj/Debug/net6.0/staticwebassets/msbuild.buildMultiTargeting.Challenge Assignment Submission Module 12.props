@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Challenge Assignment Submission Module 12.props" />
+</Project>

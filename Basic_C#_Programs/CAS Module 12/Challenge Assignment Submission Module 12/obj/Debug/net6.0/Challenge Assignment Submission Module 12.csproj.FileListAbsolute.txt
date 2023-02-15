@@ -1,0 +1,31 @@
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\bin\Debug\net6.0\appsettings.json
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\bin\Debug\net6.0\Challenge Assignment Submission Module 12.staticwebassets.runtime.json
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\bin\Debug\net6.0\Challenge Assignment Submission Module 12.exe
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\bin\Debug\net6.0\Challenge Assignment Submission Module 12.deps.json
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\bin\Debug\net6.0\Challenge Assignment Submission Module 12.runtimeconfig.json
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\bin\Debug\net6.0\Challenge Assignment Submission Module 12.dll
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\bin\Debug\net6.0\Challenge Assignment Submission Module 12.pdb
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.AssemblyInfoInputs.cache
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.AssemblyInfo.cs
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.RazorAssemblyInfo.cache
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.RazorAssemblyInfo.cs
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\staticwebassets\msbuild.Challenge Assignment Submission Module 12.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\staticwebassets\msbuild.build.Challenge Assignment Submission Module 12.props
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Challenge Assignment Submission Module 12.props
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Challenge Assignment Submission Module 12.props
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\scopedcss\bundle\Challenge Assignment Submission Module 12.styles.css
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\scopedcss\projectbundle\Challenge Assignment Submission Module 12.bundle.scp.css
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.dll
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\refint\Challenge Assignment Submission Module 12.dll
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.pdb
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\Challenge Assignment Submission Module 12.genruntimeconfig.cache
+C:\Users\Marlesa\source\repos\Challenge Assignment Submission Module 12\Challenge Assignment Submission Module 12\obj\Debug\net6.0\ref\Challenge Assignment Submission Module 12.dll
