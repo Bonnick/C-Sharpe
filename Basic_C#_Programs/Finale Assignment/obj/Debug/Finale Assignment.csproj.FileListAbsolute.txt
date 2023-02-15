@@ -1,0 +1,12 @@
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\obj\Debug\Finale Assignment.csproj.AssemblyReference.cache
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\obj\Debug\Finale Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\bin\Debug\Finale Assignment.exe.config
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\bin\Debug\Finale Assignment.exe
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\bin\Debug\Finale Assignment.pdb
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\bin\Debug\EntityFramework.dll
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\bin\Debug\EntityFramework.xml
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\obj\Debug\Finale Assignment.csproj.CopyComplete
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\obj\Debug\Finale Assignment.exe
+C:\Users\Marlesa\source\repos\Finale Assignment\Finale Assignment\obj\Debug\Finale Assignment.pdb
